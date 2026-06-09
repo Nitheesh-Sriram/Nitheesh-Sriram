@@ -5,7 +5,7 @@
 <h1 align="center">Hi👋, I'm Sriram Nitheesh</h1>
 
 <h3 align="center">
-AI Engineer•Backend Developer•Cybersecurity Student
+AI Engineer • Backend Developer • Cybersecurity Student
 </h3>
 
 <p align="center">
